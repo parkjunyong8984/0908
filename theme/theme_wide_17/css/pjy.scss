@@ -1,0 +1,14 @@
+.fa + .sound_only{
+    font-size: 14px;
+    width:auto;
+    height:auto;
+    position: unset !important;
+    line-height: 1;
+}
+.contentWrap{
+    min-height: 800px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
